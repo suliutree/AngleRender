@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Build folder
+build/
+
+# Executable file from our CMakeLists
+AngleTriangleDemo
+
+# User-specific files for IDEs (optional but good practice)
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
